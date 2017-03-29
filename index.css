@@ -1,0 +1,73 @@
+img{
+	width: 250px;
+	margin: 0 auto;
+	display: block;
+	padding: 10px 10px 10px 10px;
+	border-image: 10px 10px 10px 10px;
+	thick-red
+}
+
+body{
+	background-color : pink;
+}
+
+
+h1{
+	font-size : 34px;
+	color: blue;
+	font-family: monospace;
+	text-align: center;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+h2{
+	font-size : 30px;
+	color: green;
+	font-family: roboto;
+	text-align: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+h3{
+	font-size: 28px;
+	color: grey;
+	font-family: roboto;
+	text-align: right;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	border-right: 10px;
+}
+
+h4{
+	font-size: 24px;
+	color: Purple;
+	font-family: anton;
+	text-align: right;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	border-right: 10px;
+}
+
+p{
+	background-color: grey;
+	font-size : 20px;
+	color: black;
+	font-family: PTSerif;
+	text-align: left;
+	letter-spacing: 2px;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	border-left: 10px;
+}
